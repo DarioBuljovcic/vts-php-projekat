@@ -1,0 +1,4 @@
+﻿AuthType Basic
+AuthName "Zasticena zona - Admin panel"
+AuthUserFile "C:\xampp\htdocs\restoran_rezervacije\admin\.htpasswd"
+Require valid-user
