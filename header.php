@@ -25,7 +25,7 @@ session_start();
     <header>
         <div class="container">
             <nav>
-                <div class="logo">GOURMET.</div>
+                <a class="logo" href="./">GOURMET.</a>
                 <ul class="nav-links" id="nav-links">
                     <li><a href="index.php">Početna</a></li>
                     <li><a href="pretraga.php">Pretraga</a></li>

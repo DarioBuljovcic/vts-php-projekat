@@ -18,7 +18,7 @@ session_start();
     <header>
         <div class="container">
             <nav>
-                <div class="logo">GOURMET ADMIN</div>
+                <a class="logo" href="./">GOURMET ADMIN</a>
                 <ul class="nav-links">
                     <li><a href="../index.php" target="_blank">Prikaži sajt</a></li>
                 </ul>
