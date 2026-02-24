@@ -1,6 +1,5 @@
 <?php
 session_start();
-$css_file = 'assets/css/brutalist.css';
 ?>
 <!DOCTYPE html>
 <html lang="sr">
@@ -19,7 +18,7 @@ $css_file = 'assets/css/brutalist.css';
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="<?php echo $css_file; ?>">
+    <link rel="stylesheet" href="assets/css/brutalist.css">
 </head>
 <body>
     <div class="nav-overlay" id="nav-overlay"></div>
